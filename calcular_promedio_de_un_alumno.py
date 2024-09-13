@@ -19,6 +19,5 @@ print ("fin.")
 if promedio <= 2:
     print (nombre + ", perdiste el año con un promedio de: ",  promedio )
     print ("fin")
-
-
-
+    
+   
